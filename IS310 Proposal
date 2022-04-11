@@ -1,0 +1,53 @@
+IS310 PROJECT PROPOSAL FAADIL AHMED
+-The topic I wanted to analyze is the best cities for young adults to live in the United Kingdom
+
+-Throughout this whole process, I was going back and forth on project ideas, however one of my friends
+is seriously interested in working and moving to the United Kingdom, so he was looking over cities, he could
+possibly move to.
+
+-This inspired me to take a deeper dive into the project and to see what type of information I could find. I also
+enjoy this type of research because of its practical application. I have prior experience in classes where I have
+looked through large data, and narrowed down the statistics to help me determine an answer using what I found to
+help me support a thesis. Some examples would be creating relationship models from data, to see if there is a
+correlation in numbers.
+
+-https://www.theguardian.com/world/2021/feb/08/were-happier-calmer-why-young-adults-are-moving-out-of-big-cities
+This article gave me a little background how even though London may seem like a very popular city to live in, it
+does have its drawbacks. The article mentions how younger adults are moving out of the big cities and moving into
+smaller towns, where they are able to enjoy their lives more.
+
+-https://www.comparethemarket.com/home-insurance/content/best-uk-city-for-young-adults/
+This website provided me with a lot of statistics I will use to analyze the different factors when considering to
+a city such as average rent, average salary, the average mental wellbeing, 4g coverage, and the nightlife. The
+website also allows me to gather the data from the statistics they have documented. The research also provides a
+total score for all of the towns and cities, to give us a better understanding of how all the factors stack up,
+and affect one’s decision to move out there.
+
+-The main answer I want to answer through conducting my entire Research is based on my findings, what cities are
+the best locations for young adults to move to?
+- I am able to solve this by looking at what regions have the highest proportion of young adults occupied there,
+the average living scores, comparing the rent of the town to the salaries, and the overall mental health wellbeing.
+
+-My main goal is to highlight what cities in the United Kingdom, are beneficial for young adults to live in, and
+why living in bigger cities does not always live up to the hype created.
+
+
+-One thing I also want to further research is the GDP and GVA of cities in the United Kingdom, because this
+gives me a better background of what I need to know, and how I can better assess the standard of living in the cities.
+
+-My plan is to create Jupyter Notebook using python, where I will go through the different data sets I have collected,
+and perform data analysis methods such as cleaning up the data, filtering what I need and don’t need to better solve
+my questions, and narrow down the cities that are the most attractive locations for young adults to move into.
+
+-My work plan:
+-research the question online
+-find data sets to scrape and analyze
+-import to Jupyter Notebook
+-clean and Filter the data
+-narrow in on trends and analyze the data
+-create data visualizations of what I found
+-find 3-5 conclusions based on data
+-do an overall analysis of what I found
+-use that information to answer my question
+-make a summary of my data/conclusions found
+
